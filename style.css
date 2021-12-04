@@ -15,7 +15,7 @@ body{
     background: linear-gradient(90deg, black 50%, white 50%);
     animation: movee 5s linear infinite;
     box-shadow:  20px 20px 60px #bebebe,
-             -20px -20px 60px #ffffff;
+             -20px -20px 60px #bebebe;
 }
 
 .yin-yang::after,.yin-yang::before{
