@@ -44,45 +44,6 @@ body{
     animation: movee 5s linear infinite;
 }
 
-
-/* 
-400 tot
-
-200 200
-
-50 150
-
-*/
-/* 
-.yin{
-    position: relative;
-    height: 70px;
-    width: 70px;
-    margin: 0;
-    border-radius: 50%;
-    transform: translate(100px, 0px);
-    border: 70px solid black;
-    background-color: white;
-    animation: movee 5s infinite;
-}
-
-.yin::after{
-    position: absolute;
-    top: 0;
-    left: 50%;
-    content: '';
-    height: 70px;
-    width: 70px;
-    margin: 0;
-    border-radius: 50%;
-    border: 70px solid white;
-    transform: translate(-110px, 120px);
-    background-color: black;
-    animation: movee 5s infinite;
-
-} */
-
-
 @keyframes movee {
     from{
         transform: rotate(0);
